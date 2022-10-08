@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @NIMBUSNerwork
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-NIMBUS云雨网络开源库
-hhh这个介绍很艹
-你也可以叫我小U
-
+这里是NIMBUS 8-bit研究所 所有研究的系统都会放置在我的Git库 如果需要 随时克隆 
+【English】
+Here is NIMBUS 8-bit Institute. All the systems studied will be placed in my Git library. If necessary, they will be cloned at any time = )
 
 <!---
 NIMBUSNerwork/NIMBUSNerwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
